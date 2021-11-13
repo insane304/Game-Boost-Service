@@ -1,0 +1,47 @@
+<html>
+    <title> Game Boost Service </title>
+        <body>
+            <header id="start" style="background-color:Black">
+                <img src="https://www.crushpixel.com/big-static15/preview4/initial-monogram-letter-gb-logo-2143210.jpg">
+                <a href="#price" style="color: White"> Цена </a>
+
+                <a href="#Contacts" style="color: White"> Контакты </a>
+            </header>
+            <main style="background-color: Aqua">
+                <h1> В каких играх мы прокачиваем аккаунты </h1>
+                     <p> В наше время многие играют в компьютерные игры. Мы же занимаемся прокачкой аккаунтов в некторых играх таких как: Counter Strike: Global Offensive, Dota 2,Overwatch. <img src="https://static.playoverwatch.com/img/logos/overwatch-share-4dab210e88.jpg"  </p>
+                <h2 id="price"> Наши цены </h2>
+                    <table style="border: 1px solid black; border-collapse:collapse">
+                        <tr> 
+                            <td style="border: 1px solid black; border-collapse:collapse"> Игра </td>
+                            <td style="border: 1px solid black; border-collapse:collapse"> Время прокачки </td>
+                            <td style="border: 1px solid black; border-collapse:collapse"> Цена </td>
+                        </tr>
+                        <tr> 
+                            <td style="border: 1px solid black; border-collapse:collapse"> CS:GO </td>
+                            <td style="border: 1px solid black; border-collapse:collapse"> 3 дня </td>
+                            <td style="border: 1px solid black; border-collapse:collapse"> 300-500 руб. </td>
+                        </tr>
+                        <tr> 
+                            <td style="border: 1px solid black; border-collapse:collapse"> Dota 2 </td>
+                            <td style="border: 1px solid black; border-collapse:collapse"> 7 дней </td>
+                            <td style="border: 1px solid black; border-collapse:collapse"> 800 руб. </td>
+                        </tr>
+                        <tr> 
+                            <td style="border: 1px solid black; border-collapse:collapse"> Overwatch </td>
+                            <td style="border: 1px solid black; border-collapse:collapse"> 7 дней </td>
+                            <td style="border: 1px solid black; border-collapse:collapse"> 500 руб. </td>
+                        </tr>
+                    </table>
+                <h2> Процесс прокачки </h2>
+                    <p> 1) Связываемся с клиентом и входим на его аккаунт. <br>
+                        2) Прокачиваем аккаунт: рейтинговые матчи. <br>
+                        3) Отдаём аккаунт. </p>
+            </main>
+            <footer id="Contacts" style="background-color: Black">
+                <a href="#start" style="color: White"> Наверх </a>
+                <p style="color: White"> Адрес: г. Калининград, ул. Пушкинская, д.1 </p>
+                <p style="color: White"> Ном. тел.: 89161721131 </p>
+            </footer>
+        </body>
+</html>
